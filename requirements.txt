@@ -1,4 +1,4 @@
-simpy==4.1.1
-streamlit==1.41.0
-plotly==5.24.0
-pandas==2.2.3
+simpy>=4.1
+streamlit>=1.41
+plotly>=5.24
+pandas>=2.2
